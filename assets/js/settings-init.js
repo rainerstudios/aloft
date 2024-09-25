@@ -7,6 +7,6 @@ var optionSettings = {
     font:"opensans",
     textDirection:"ltr",
     radius:"sixradius",
-    showSettings:"show",
+    showSettings:"hide",
 };
 new antlerSettings(optionSettings);
